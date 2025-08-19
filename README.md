@@ -34,8 +34,7 @@ KPIs:
 
 6.Date Range Filter (Slicer)
 
-![image](https://github.com/Bhoomikagk07/Amazon-Sales-Analysis-Dashboard/blob/7149b77795ed4e770953df7899e534ef00a07ae0/power%20bi.png)
-
+![image](https://github.com/Bhoomikagk07/Amazon-Sales-Analysis-Dashboard/blob/674e7f42f661892f496a69f9b478bce7594b4371/powerbi1.png)
 
 # Excel Dashboard – Amazon Sales Analysis
 

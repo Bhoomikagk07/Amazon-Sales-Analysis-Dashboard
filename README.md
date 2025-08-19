@@ -34,9 +34,11 @@ KPIs:
 
 6.Date Range Filter (Slicer)
 
+![image](https://github.com/Bhoomikagk07/Amazon-Sales-Analysis-Dashboard/blob/7149b77795ed4e770953df7899e534ef00a07ae0/power%20bi.png)
+
 
 # Excel Dashboard – Amazon Sales Analysis
-File: Amazon_Sales_Analysis_Excel.xlsx
+
 ## Description:
 A dynamic Excel dashboard with slicers and charts to explore Amazon sales performance.
 
@@ -61,3 +63,5 @@ Summary Metrics:
 4.Bottom 5 Cities by Sales
 
 5.Category and Size Slicers for Filtering
+
+![image](https://github.com/Bhoomikagk07/Amazon-Sales-Analysis-Dashboard/blob/7149b77795ed4e770953df7899e534ef00a07ae0/excel.jpg)
